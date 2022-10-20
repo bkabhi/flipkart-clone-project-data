@@ -1255,9 +1255,25 @@
       "item_id": 8
     }
   ],
-  "products": [],
+  "products": [
+    {
+      "category_id": 1,
+      "category_name": "top_offers",
+      "image": "https://i.ibb.co/HpkT5G0/5f5c2646fccf.jpg",
+      "description": "Unstitched Polycotton Shirt Fabric Printed",
+      "new_price": 249,
+      "old_price": 999,
+      "discount": 75,
+      "delivery_type": "Free delivery",
+      "hidden_stars": 3.9,
+      "item_id": 6,
+      "quantity": 1,
+      "size": "S, M, L XL",
+      "id": 1
+    }
+  ],
   "address": {
-    "Name": "1212",
+    "Name": "12",
     "Number": "12",
     "Pincode": "12",
     "Email": "12",
@@ -1794,79 +1810,9 @@
   ],
   "Userdetails": [
     {
-      "id": 1,
-      "email": "rajgupta09875@gmail.com",
-      "password": "123666"
-    },
-    {
-      "email": "rajgupta0875@gmail.com",
-      "password": "1235555",
-      "id": 2
-    },
-    {
-      "email": "rajgupta70805@gmail.com",
-      "password": "99999999999999999999",
-      "id": 3
-    },
-    {
-      "email": "gaurav@gmail.com",
-      "password": "123456",
-      "id": 4
-    },
-    {
-      "email": "r@gmail.com",
-      "password": "11111111111111111",
-      "id": 5
-    },
-    {
-      "email": "gaurav1@gmail.com",
-      "password": "123456",
-      "id": 6
-    },
-    {
-      "email": "abhi@gmail.com",
-      "password": "1234567",
-      "id": 7
-    },
-    {
-      "email": "vikas@gmail.com",
-      "password": "123456",
-      "id": 9
-    },
-    {
       "email": "bkpk8789@gmail.com",
       "password": "1234567",
-      "id": 10
-    },
-    {
-      "email": "sukantaxx@gmail.com",
-      "password": "1234567",
-      "id": 11
-    },
-    {
-      "email": "abhijeet@gmail.com",
-      "password": "1234567",
-      "id": 12
-    },
-    {
-      "email": "atest@gmail.com",
-      "password": "123456",
-      "id": 14
-    },
-    {
-      "email": "bloggerbkabhi@gmail.com",
-      "password": "1234567",
-      "id": 15
-    },
-    {
-      "email": "Gaurav@gmail.com",
-      "password": "123456",
-      "id": 16
-    },
-    {
-      "email": "RajGupta@gmail.com",
-      "password": "1234567",
-      "id": 17
+      "id": 1
     }
   ],
   "all": [
