@@ -1256,21 +1256,7 @@
     }
   ],
   "products": [
-    {
-      "category_id": 1,
-      "category_name": "top_offers",
-      "image": "https://i.ibb.co/HpkT5G0/5f5c2646fccf.jpg",
-      "description": "Unstitched Polycotton Shirt Fabric Printed",
-      "new_price": 249,
-      "old_price": 999,
-      "discount": 75,
-      "delivery_type": "Free delivery",
-      "hidden_stars": 3.9,
-      "item_id": 6,
-      "quantity": 1,
-      "size": "S, M, L XL",
-      "id": 1
-    }
+    
   ],
   "address": {
     "Name": "12",
